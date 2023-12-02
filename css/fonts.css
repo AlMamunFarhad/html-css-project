@@ -1,0 +1,41 @@
+ /* fonts able */
+
+ @font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+ }
+
+  /* fonts Pattaya */
+
+  @font-face {
+    font-family: Pattaya;
+    src: url('../fonts/Pattaya/Pattaya-Regular.ttf');
+ } 
+
+   /* fonts Roboto */
+
+   @font-face {
+    font-family: Roboto;
+    src: url('../fonts/Pattaya/Pattaya-Regular.ttf');
+ }
+
+    /* fonts Jost */
+
+ @font-face {
+    font-family: Jost;
+    src: url('../fonts/Jost/static/Jost-BlackItalic.ttf');
+ }
+
+     /* fonts Shadows_Into_Light */
+
+@font-face {
+   font-family: Shadows_Into_Light;
+   src: url('../fonts/Shadows_Into_Light/OFL.txt');
+}
+
+         /* fonts Shadows_Into_Light */
+
+@font-face {
+   font-family: Font;
+   src: url('../fonts/Font/Lexend-SemiBold.ttf');
+}
